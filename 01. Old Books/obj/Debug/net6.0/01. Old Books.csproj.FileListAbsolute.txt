@@ -1,0 +1,15 @@
+C:\Visual Studio\While\WhileExercise\01. Old Books\bin\Debug\net6.0\01. Old Books.exe
+C:\Visual Studio\While\WhileExercise\01. Old Books\bin\Debug\net6.0\01. Old Books.deps.json
+C:\Visual Studio\While\WhileExercise\01. Old Books\bin\Debug\net6.0\01. Old Books.runtimeconfig.json
+C:\Visual Studio\While\WhileExercise\01. Old Books\bin\Debug\net6.0\01. Old Books.dll
+C:\Visual Studio\While\WhileExercise\01. Old Books\bin\Debug\net6.0\ref\01. Old Books.dll
+C:\Visual Studio\While\WhileExercise\01. Old Books\bin\Debug\net6.0\01. Old Books.pdb
+C:\Visual Studio\While\WhileExercise\01. Old Books\obj\Debug\net6.0\01. Old Books.csproj.AssemblyReference.cache
+C:\Visual Studio\While\WhileExercise\01. Old Books\obj\Debug\net6.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\While\WhileExercise\01. Old Books\obj\Debug\net6.0\01. Old Books.AssemblyInfoInputs.cache
+C:\Visual Studio\While\WhileExercise\01. Old Books\obj\Debug\net6.0\01. Old Books.AssemblyInfo.cs
+C:\Visual Studio\While\WhileExercise\01. Old Books\obj\Debug\net6.0\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Visual Studio\While\WhileExercise\01. Old Books\obj\Debug\net6.0\01. Old Books.dll
+C:\Visual Studio\While\WhileExercise\01. Old Books\obj\Debug\net6.0\ref\01. Old Books.dll
+C:\Visual Studio\While\WhileExercise\01. Old Books\obj\Debug\net6.0\01. Old Books.pdb
+C:\Visual Studio\While\WhileExercise\01. Old Books\obj\Debug\net6.0\01. Old Books.genruntimeconfig.cache

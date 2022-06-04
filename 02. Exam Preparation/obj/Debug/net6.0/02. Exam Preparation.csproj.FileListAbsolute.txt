@@ -1,0 +1,15 @@
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.exe
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.deps.json
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.runtimeconfig.json
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.dll
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\bin\Debug\net6.0\ref\02. Exam Preparation.dll
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\bin\Debug\net6.0\02. Exam Preparation.pdb
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.csproj.AssemblyReference.cache
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.AssemblyInfo.cs
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.dll
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\obj\Debug\net6.0\ref\02. Exam Preparation.dll
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.pdb
+C:\Visual Studio\While\WhileExercise\02. Exam Preparation\obj\Debug\net6.0\02. Exam Preparation.genruntimeconfig.cache
